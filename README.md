@@ -1,2 +1,2 @@
 # types-common
-A collection of entity data types that are commonly found in many software applications.
+A collection of the most common data types used in software applications.
